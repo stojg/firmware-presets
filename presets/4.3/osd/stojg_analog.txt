@@ -7,17 +7,9 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: I am a Betaflight contributor, Youtube content creator, and professional tuner [www.theuavtech.com](https://www.theuavtech.com)
-#$ DESCRIPTION: 
 #$ DESCRIPTION: Information:
 #$ DESCRIPTION: -----------
-#$ DESCRIPTION: General analog OSD Setup. Layout was based on **NTSC** so if you need use the **PAL** format you may need to adjust element locations.
-#$ DESCRIPTION: 
-#$ DESCRIPTION: OSD Elements Include:
-#$ DESCRIPTION: -----------
-#$ DESCRIPTION:
-#$ DESCRIPTION: 
-#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/211
+#$ DESCRIPTION: General analog OSD Setup.
 #$ INCLUDE: presets/4.3/osd/defaults.txt
 
 set osd_warn_batt_not_full = OFF
