@@ -1,0 +1,20 @@
+#$ TITLE: Stojg - TBS Tango 2 modes
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: modes
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: tbs, tango2
+#$ AUTHOR: Stig Lindqvist (Stig Lindqvist)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: Basic set up for the TBS tango 2
+#$ INCLUDE: presets/4.3/modes/defaults.txt
+
+aux 0 0 0 1800 2100 0 0
+aux 1 1 1 1800 2100 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 13 3 1800 2100 0 0
+aux 4 35 3 1800 2100 0 0
+aux 5 36 4 1800 2100 0 0

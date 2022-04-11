@@ -174,6 +174,8 @@
       "Rx",
       "smoothing",
       "switch",
+      "tango2",
+      "tbs",
       "tune",
       "vtx"
     ]
@@ -233,6 +235,22 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/tbs_tango2.txt",
+      "hash": "927190133bdecdf62882b59497b647f7f7bcf63d97dc4fc15a2c89d2c8716f38",
+      "title": "Stojg - TBS Tango 2 modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "tbs",
+        "tango2"
+      ],
+      "author": "Stig Lindqvist (Stig Lindqvist)",
       "priority": 0
     },
     {
