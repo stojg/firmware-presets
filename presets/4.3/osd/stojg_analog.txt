@@ -1,0 +1,51 @@
+#$ TITLE: Stojg - Analog
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog
+#$ AUTHOR: Stig Lindqvist (Stig Lindqvist)
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: I am a Betaflight contributor, Youtube content creator, and professional tuner [www.theuavtech.com](https://www.theuavtech.com)
+#$ DESCRIPTION: 
+#$ DESCRIPTION: Information:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: General analog OSD Setup. Layout was based on **NTSC** so if you need use the **PAL** format you may need to adjust element locations.
+#$ DESCRIPTION: 
+#$ DESCRIPTION: OSD Elements Include:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: 
+#$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/211
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_batt_not_full = OFF
+set osd_warn_visual_beeper = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+set osd_rssi_alarm = 40
+set osd_cap_alarm = 1300
+set osd_vbat_pos = 22
+set osd_rssi_pos = 2057
+set osd_tim_1_pos = 54
+set osd_tim_2_pos = 23
+set osd_flymode_pos = 2457
+set osd_anti_gravity_pos = 27
+set osd_g_force_pos = 65
+set osd_throttle_pos = 2072
+set osd_vtx_channel_pos = 2433
+set osd_crosshairs_pos = 237
+set osd_current_pos = 300
+set osd_mah_drawn_pos = 6162
+set osd_craft_name_pos = 395
+set osd_warnings_pos = 14732
+set osd_avg_cell_voltage_pos = 6156
+set osd_battery_usage_pos = 480
+set osd_disarmed_pos = 2049
+set osd_stat_max_spd = OFF
+set osd_stat_min_batt = OFF
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_bbox = OFF
+set osd_stat_bb_no = OFF
