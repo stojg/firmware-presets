@@ -147,31 +147,24 @@
     ],
     "author": [
       "Betaflight",
-      "Stig Lindqvist (Stig Lindqvist)",
-      "sugarK"
+      "Stig Lindqvist (Stig Lindqvist)"
     ],
     "keywords": [
-      "5\"",
       "actual",
       "adjustments",
       "analog",
       "aux",
       "basic",
       "clear",
-      "CTZsoonze",
       "default",
       "defaults",
       "filter",
       "filters",
-      "freesytle",
-      "karate",
-      "KarateBrot",
       "leds",
       "mode",
       "modes",
       "OSD",
       "pid",
-      "race",
       "rates",
       "RC",
       "rc link",
@@ -180,7 +173,6 @@
       "reset",
       "Rx",
       "smoothing",
-      "suagrK",
       "switch",
       "tune",
       "vtx"
@@ -203,29 +195,6 @@
         "reset"
       ],
       "author": "Betaflight",
-      "priority": 100
-    },
-    {
-      "fullPath": "presets/4.3/filters/karate_array.txt",
-      "hash": "7d4913bf9839cc9bb055ab942a22c3c015a2f258e30633a07edcaaf98eb85df0",
-      "title": "the Karate array",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "filter",
-        "filters",
-        "karate",
-        "race",
-        "freesytle",
-        "suagrK",
-        "CTZsoonze",
-        "KarateBrot",
-        "5\""
-      ],
-      "author": "sugarK",
       "priority": 100
     },
     {
